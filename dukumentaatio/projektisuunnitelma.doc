@@ -1,0 +1,899 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1035\deflangfe2052{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}SimSun{\*\falt \'cb\'ce\'cc\'e5};}{\f36\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@SimSun;}
+{\f37\froman\fcharset238\fprq2 Times New Roman CE;}{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f47\fswiss\fcharset238\fprq2 Arial CE;}{\f48\fswiss\fcharset204\fprq2 Arial Cyr;}{\f50\fswiss\fcharset161\fprq2 Arial Greek;}{\f51\fswiss\fcharset162\fprq2 Arial Tur;}{\f52\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f53\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f54\fswiss\fcharset186\fprq2 Arial Baltic;}{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f57\fmodern\fcharset238\fprq1 Courier New CE;}{\f58\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f60\fmodern\fcharset161\fprq1 Courier New Greek;}{\f61\fmodern\fcharset162\fprq1 Courier New Tur;}{\f62\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f63\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f64\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f65\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f169\fnil\fcharset0\fprq2 SimSun Western{\*\falt \'cb\'ce\'cc\'e5};}{\f399\fnil\fcharset0\fprq2 @SimSun Western;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\f0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 \snext0 Normal;}{\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs36\alang1025 \ltrch\fcs0 \b\fs36\lang1035\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 \sbasedon0 \snext2 \styrsid16257744 heading 2;}{
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\f1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 
+\sbasedon0 \snext0 \styrsid16257744 heading 3;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\widctlpar
+\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\loch\f2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 \sbasedon0 \snext15 \styrsid16257744 HTML Preformatted;}{\s16\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1035\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 \sbasedon0 \snext16 \styrsid16257744 Normal (Web);}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 
+\sbasedon10 \styrsid16257744 Hyperlink;}{\*\cs18 \additive \rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \fs20\loch\f2\hich\af2\dbch\af13 \sbasedon10 \styrsid16257744 HTML Code;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp
+\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid14139\rsid1273601\rsid3034714\rsid5919362\rsid8471072\rsid11623091\rsid16257744}{\*\generator Microsoft Word 10.0.2627;}{\info{\author Henri Tanskanen}{\operator Henri Tanskanen}
+{\creatim\yr2007\mo4\dy18\hr11\min17}{\revtim\yr2007\mo4\dy18\hr11\min41}{\version6}{\edmins24}{\nofpages9}{\nofwords663}{\nofchars5377}{\*\company koti}{\nofcharsws6028}{\vern16437}}\paperw11905\paperh16837\ltrsect 
+\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot16257744 \fet0
+{\*\docvar {ColorPos}{-1}}{\*\docvar {ColorSet}{-1}}{\*\docvar {StylePos}{-1}}{\*\docvar {StyleSet}{-1}}\ltrpar \sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid5919362\charrsid16257744 \hich\af0\dbch\af13\loch\f0 
+Ohjelmointity\loch\af0\dbch\af13\hich\f0 \'f6}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid8471072 \hich\af0\dbch\af13\loch\f0 , }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid5919362\charrsid16257744 \hich\af0\dbch\af13\loch\f0 
+Projektisuunnitelma}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid8471072 \tab \tab \tab \hich\af0\dbch\af13\loch\f0 Henri Tanskanen}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid5919362\charrsid16257744 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid5919362\charrsid16257744 
+\par \hich\af0\dbch\af13\loch\f0 Ty\loch\af0\dbch\af13\hich\f0 \'f6\hich\af0\dbch\af13\loch\f0 nro 52: Tee ohjelma joka hoitaa yrityksen laskutusta l\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 hett\loch\af0\dbch\af13\hich\f0 \'e4
+\hich\af0\dbch\af13\loch\f0 m\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 ll\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0  laskuja laskutustiedostosta, poistamalla jo maksetut laskut laskutustiedostosta ja tarvittaessa l
+\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 hett\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 m\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 ll\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 
+ karhulaskun.
+\par \hich\af0\dbch\af13\loch\f0 Kussakin laskussa on seuraavat tiedot
+\par \hich\af0\dbch\af13\loch\f0 - Laskun numero,
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\lang1033\langfe2052\langnp1033\insrsid5919362 \hich\af0\dbch\af13\loch\f0 - maksaja osoite ja asiakasnumeroineen,
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid5919362\charrsid16257744 \hich\af0\dbch\af13\loch\f0 - laskun loppusumma,
+\par \hich\af0\dbch\af13\loch\f0 - laskun er\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 p\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 iv\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0  ja
+\par \hich\af0\dbch\af13\loch\f0 - muut kulut (toimituskulut, my\loch\af0\dbch\af13\hich\f0 \'f6\hich\af0\dbch\af13\loch\f0 h\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 stymiskorot, pientoimituslis\loch\af0\dbch\af13\hich\f0 \'e4
+\hich\af0\dbch\af13\loch\f0 ).
+\par \hich\af0\dbch\af13\loch\f0 Ohjelma muodostaa laskutustiedostoa\hich\af0\dbch\af13\loch\f0  lis\loch\af0\dbch\af13\hich\f0 \'e4\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 m\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0 ll
+\loch\af0\dbch\af13\hich\f0 \'e4\hich\af0\dbch\af13\loch\f0  tiedot laskutettavista tilauksista ja poistamalla jo maksetut laskut.
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid5919362\charrsid16257744 \hich\af0\dbch\af13\loch\f0 Toteutuksen suunnitelma:
+\par 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid8471072 \hich\af0\dbch\af13\loch\f0 \hich\f0 K\'e4\loch\f0 \hich\f0 ytt\'f6\loch\f0 
+\hich\f0 liittym\'e4\loch\f0  on tekstipohjainen\hich\af0\dbch\af13\loch\f0 . \hich\af0\dbch\af13\loch\f0 \hich\f0  K\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0  tekee valintoja \hich\af0\dbch\af13\loch\f0 \hich\f0 sy\'f6\loch\f0 
+\hich\f0 tt\'e4\loch\f0 \hich\f0 m\'e4\loch\f0 \hich\f0 ll\'e4\loch\f0  kutakin toimintoa vastaavan numeron. }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 
+\par \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid8471072 \hich\af0\dbch\af13\loch\f0 \hich\f0 Laskutustiedot tallennetaan kysym\'e4\loch\f0 \hich\f0 ll\'e4\loch\f0 \hich\f0  k\'e4\loch\f0 
+\hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0 \hich\f0  (bin-tiedostoon) ja luetaan aina ohjelman k\'e4\loch\f0 ynnistye\hich\af0\dbch\af13\loch\f0 \hich\f0 ss\'e4\loch\f0 .}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\fs24\insrsid16257744\charrsid8471072 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid8471072 \hich\af0\dbch\af13\loch\f0 Laskuja voidaan lis\loch\af0\dbch\af13\hich\f0 
+\'e4\loch\f0 \hich\f0 t\'e4\loch\f0  yksitellen ja poistaa laskunumeron perusteella.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid16257744 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0 \hich\f0  Laskujen er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 ivi\'e4\loch\f0  voi\hich\af0\dbch\af13\loch\f0 daan muuttaa 
+\hich\af0\dbch\af13\loch\f0 ja tarkistaa.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid8471072 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0  Laskuihin voidaan lis\loch\af0\dbch\af13\hich\f0 \'e4\loch\f0 \hich\f0 t\'e4\loch\f0  my\loch\af0\dbch\af13\hich\f0 \'f6\loch\f0 
+\hich\f0 h\'e4\loch\f0 stymis ym. kuluja ja summaa voidaan muuttaa.
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid14139 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139 \loch\af0\dbch\af13\hich\f0 \endash \hich\af0\dbch\af13\loch\f0 \hich\f0  Laskuja voidaan l\'e4
+\hich\af0\dbch\af13\loch\f0 \hich\f0 hett\'e4\'e4\loch\f0 \hich\f0  asiakkaille (k\'e4\loch\f0 yt\loch\af0\dbch\af13\hich\f0 \'e4\loch\f0 \hich\f0 nn\'f6\loch\f0 \hich\f0 ss\'e4\loch\f0  tulostetaan tiedostoon, \hich\af0\dbch\af13\loch\f0 ik
+\loch\af0\dbch\af13\hich\f0 \'e4\'e4\hich\af0\dbch\af13\loch\f0 n kuin\hich\af0\dbch\af13\loch\f0  \hich\af0\dbch\af13\loch\f0 tulostimelle).}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid14139\charrsid8471072 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16257744 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs36 \ltrch\fcs0 \b\fs36\insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0 L\hich\af0\dbch\af13\loch\f0 UOKAT\hich\af0\dbch\af13\loch\f0  \hich\af0\dbch\af13\loch\f0 JA NIIDEN METODIT:}{\rtlch\fcs1 \ab\af0\afs36 
+\ltrch\fcs0 \b\fs36\insrsid5919362\charrsid11623091 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Class Ohj}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0 52}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0  
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 T\'e4\loch\f0 \hich\f0 m\'e4\loch\f0 
+\hich\f0  luokka sis\'e4\loch\f0 \hich\f0 lt\'e4\'e4\loch\f0 \hich\f0  p\'e4\'e4\loch\f0 \hich\f0 ohjelman ja k\'e4\loch\f0 \hich\f0 ytt\'f6\loch\f0 \hich\f0 liittym\'e4\loch\f0 n. 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 Version:}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0  
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid16257744 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 28.3.2007 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 Author:}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0  
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid16257744 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 Henri Tanskane
+\hich\af0\dbch\af13\loch\f0 n 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af1\dbch\af13\loch\f1 main 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af2\dbch\af13\loch\f2 
+public static void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af2\dbch\af13\loch\f2 main}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 
+\hich\af2\dbch\af13\loch\f2 (java.lang.String[]\~args)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 P\'e4\'e4\loch\f0 \hich\f0 ohjelma, sis\'e4\loch\f0 \hich\f0 lt\'e4\'e4\loch\f0 \hich\f0  pelk\'e4\loch\f0 \hich\f0 st\'e4\'e4\loch\f0 \hich\f0 n ohjelman k\'e4\loch\f0 \hich\f0 ytt
+\'f6\loch\f0 \hich\f0 liittym\'e4\loch\f0 n\hich\af0\dbch\af13\loch\f0 . 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid1273601 \page }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16257744\charrsid16257744 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Class Lasku 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lasku luokka, joka sis\'e4\loch\f0 
+\hich\f0 lt\'e4\'e4\loch\f0  \hich\af0\dbch\af13\loch\f0 \hich\f0 laskun tiedot ja alustajan, luokan tiedot palauttavat metodit, laskun tulostavan metodin, er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 
+n muuttavan metodin, kulujen ja summan asettavat \hich\af0\dbch\af13\loch\f0 \hich\f0 metodit, er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 n tarkistavan metodin ja karhulaskun lis\'e4\'e4\loch\f0 \hich\f0 v\'e4\loch\f0 \hich\f0 
+n/l\'e4\loch\f0 \hich\f0 hett\'e4\loch\f0 \hich\f0 v\'e4\loch\f0 n metodin.\hich\af0\dbch\af13\loch\f0  
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16257744 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 METODIT
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 \hich\af1\dbch\af13\loch\f1 asetaKulut 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 asetaKulut}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Asettaa laskuun mahdolliset kulut. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag551024876\blipupi-199{\*\blipuid 20d7f8ec5e63e016fb09ee440160f8fe}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239008e0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00008e0d000048c8110072edc63058ce60030c0200008e0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff870d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200860dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart asetaSumma()}{\*\bkmkend asetaSumma()}\hich\af1\dbch\af13\loch\f1 asetaSumma 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 asetaSumma}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Asettaa laskulle uuden loppusumman. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag651357440\blipupi-198{\*\blipuid 26d2ed001675c40c7450549b0a5fea2d}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900940d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000940d000048c8110072edc63058ce60030c020000940d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff8d0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f00000000000000032008d0dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart karhulasku()}{\*\bkmkend karhulasku()}\hich\af1\dbch\af13\loch\f1 karhulasku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 karhulasku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Luo karhulaskun l\'e4\loch\f0 \hich\f0 hetett\'e4\loch\f0 \hich\f0 v\'e4\loch\f0 ksi. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1811949027\blipupi-197{\*\blipuid 6c0025e340b8d112d4a9e7ad096328b4}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239009a0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00009a0d000048c8110072edc63058ce60030c0200009a0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff930d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200930dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart muutaErapv()}{\*\bkmkend muutaErapv()}\hich\af1\dbch\af13\loch\f1 muutaErapv 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 muutaErapv}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Muuttaa laskun er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\'e4\loch\f0 . 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-750148670\blipupi-195{\*\blipuid d349a3c2453b754dff483a18814bc62e}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900a10d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000a10d000048c8110072edc63058ce60030c020000a10d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff9a0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f00000000000000032009a0dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart palautaAsiakas()}{\*\bkmkend palautaAsiakas()}\hich\af1\dbch\af13\loch\f1 palautaAsiakas 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public Asiakas }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 palautaAsiakas}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Palauttaa laskun asiakastiedot. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag837195640\blipupi-194{\*\blipuid 31e6977818aba6e7cebfc5b0fb61cd03}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900a70d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000a70d000048c8110072edc63058ce60030c020000a70d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffa00d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200a00dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart palautaErapv()}{\*\bkmkend palautaErapv()}\hich\af1\dbch\af13\loch\f1 palautaErapv 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public Aika }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 palautaErapv}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Palauttaa laskun er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 tiedot. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1370053143\blipupi-192{\*\blipuid 51a95a17b5a16a6164e7e7f9cc78b017}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900ad0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000ad0d000048c8110072edc63058ce60030c020000ad0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffa60d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200a60dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart palautaKulut()}{\*\bkmkend palautaKulut()}\hich\af1\dbch\af13\loch\f1 palautaKulut 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public double }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 palautaKulut}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Palauttaa laskun kulut. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-627666618\blipupi-191{\*\blipuid da969146c84136655374b50984316df9}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900b30d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000b30d000048c8110072edc63058ce60030c020000b30d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffac0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200ac0dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart palautaNumero()}{\*\bkmkend palautaNumero()}\hich\af1\dbch\af13\loch\f1 palautaNumero 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 pal\hich\af2\dbch\af13\loch\f2 autaNumero}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Palauttaa laskun numeron. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1920448875\blipupi-189{\*\blipuid 7277b96bfa2e721c7c501c513a4994f1}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900ba0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000ba0d000048c8110072edc63058ce60030c020000ba0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffb30d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200b20dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart palautaSumma()}{\*\bkmkend palautaSumma()}\hich\af1\dbch\af13\loch\f1 palautaSumma 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public double }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 palautaSumma}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Palauttaa laskun summan. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-64821356\blipupi-188{\*\blipuid fc22e794d52106ed9e1a6f5b3bfadbc8}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900c00d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000c00d000048c8110072edc63058ce60030c020000c00d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffb90d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200b80dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart tarkistaEra(Aika)}{\*\bkmkend tarkistaEra(Aika)}\hich\af1\dbch\af13\loch\f1 tarkistaEra 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 tarkistaEra}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 (Aika\~nykyinen)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Palauttaa laskun er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 n ja nykyisen p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 n eron. Jos lasku on my\'f6
+\loch\f0 \hich\f0 h\'e4\loch\f0 \hich\f0 ss\'e4\loch\f0  palautusarvo on nega\hich\af0\dbch\af13\loch\f0 \hich\f0 tiivinen. Jos lasku on my\'f6\loch\f0 \hich\f0 h\'e4\loch\f0 \hich\f0 ss\'e4\loch\f0 \hich\f0  yli 30 p\'e4\loch\f0 \hich\f0 iv\'e4\'e4
+\loch\f0  palauttaa -31 (karhulaskun aikaraja). 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid16257744 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag713861446\blipupi-187{\*\blipuid 2a8ca946db9d985b70aa7ca1321da2d8}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900c60d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000c60d000048c8110072edc63058ce60030c020000c60d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffbf0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200bf0dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16257744 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid16257744 {\*\bkmkstart toString()}{\*\bkmkend toString()}\hich\af1\dbch\af13\loch\f1 toString 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 public java.lang.String }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid16257744 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid16257744 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 Muuttaa laskun tiedot yhdeksi String-riviksi, jolla lasku saadaan tulostettua. 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0 Overrides:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 
+\hich\af0\dbch\af13\loch\f0  
+\par }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 
+\hich\af0\dbch\af13\loch\f0  in class }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af2\dbch\af13\loch\f2 java.lang.Objec\hich\af2\dbch\af13\loch\f2 t}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid16257744\charrsid16257744 \hich\af0\dbch\af13\loch\f0  
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\lang2057\langfe2052\langnp2057\insrsid1273601 \page }{\rtlch\fcs1 \ab\af0\afs36 \ltrch\fcs0 
+\b\fs36\insrsid16257744\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Class Laskutus 
+\par }\pard\plain \ltrpar\s16\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16257744 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16257744 \hich\af0\dbch\af13\loch\f0 \hich\f0 Sis\'e4\loch\f0 \hich\f0 lt\'e4\'e4\loch\f0 
+ laskutuslistan luomiseen ja muokkaamiseen tarvittavat metodit. 
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid1273601 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid1273601\charrsid1273601 \hich\af0\dbch\af13\loch\f0 METODIT}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16257744 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1053\langfe2052\langnp1053\insrsid1273601\charrsid1273601 \hich\af1\dbch\af13\loch\f1 haeLasku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang1053\langfe2052\langnp1053\insrsid1273601\charrsid1273601 \hich\af2\dbch\af13\loch\f2 public Lasku }{
+\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang1053\langfe2052\langnp1053\insrsid1273601\charrsid1273601 \hich\af2\dbch\af13\loch\f2 haeLasku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang1053\langfe2052\langnp1053\insrsid1273601\charrsid1273601 \hich\af2\dbch\af13\loch\f2 
+(int\~nro)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 Palauttaa laskun numeron perusteella haetun laskun. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1273601 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-426292895\blipupi-185{\*\blipuid e697496159ee39acbbfc9ea96d9f11a6}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900cc0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000cc0d000048c8110072edc63058ce60030c020000cc0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffc50d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200c50dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid1273601 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid1273601 {\*\bkmkstart lahetaLasku(Lasku)}{\*\bkmkend lahetaLasku(Lasku)}\hich\af1\dbch\af13\loch\f1 lahetaLasku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid1273601 
+\hich\af2\dbch\af13\loch\f2 lahetaLasku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 (Lasku\~l)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 \hich\f0 L\'e4\loch\f0 \hich\f0 ett\'e4\'e4\loch\f0  laskun tai karhulaskun asiakkaalle 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1273601 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag937064410\blipupi-184{\*\blipuid 37da77da08efa90ddfc314521c6dc104}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900d20d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000d20d000048c8110072edc63058ce60030c020000d20d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffcc0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200cc0dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid1273601 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid1273601 {\*\bkmkstart lisaaLasku(Lasku)}{\*\bkmkend lisaaLasku(Lasku)}\hich\af1\dbch\af13\loch\f1 lisaaLasku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid1273601 
+\hich\af2\dbch\af13\loch\f2 lisaaLasku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 (Lasku\~l)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lis\'e4\'e4\loch\f0  \hich\af0\dbch\af13\loch\f0 \hich\f0 sy\'f6\loch\f0 \hich\f0 tteen\'e4\'e4\loch\f0 n saaman laskun laskutuslistaan. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1273601 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1731290379\blipupi-183{\*\blipuid 98ce9af5692b44a292fd0ad7d81e059f}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900d90d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000d90d000048c8110072edc63058ce60030c020000d90d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffd20d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200d20dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid1273601 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid1273601 {\*\bkmkstart listaaLaskut()}{\*\bkmkend listaaLaskut()}\hich\af1\dbch\af13\loch\f1 listaaLaskut 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid1273601 
+\hich\af2\dbch\af13\loch\f2 listaaLaskut}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 Listaa kaikki laskut. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1273601 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag2012248884\blipupi-181{\*\blipuid 77f07b34868f0ea185ed36e493869974}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900df0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000df0d000048c8110072edc63058ce60030c020000df0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffd80d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200d80dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid1273601 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid1273601 {\*\bkmkstart poistaLasku(int)}{\*\bkmkend poistaLasku(int)}\hich\af1\dbch\af13\loch\f1 poistaLasku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 public void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid1273601 
+\hich\af2\dbch\af13\loch\f2 poistaLasku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 (int\~nro)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 \hich\f0 Poistaa laskun laskutuslistasta, saa sy\'f6\loch\f0 \hich\f0 tteen\'e4\loch\f0  laskunumeron. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid1273601 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1273601 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-975707077\blipupi-180{\*\blipuid c5d7e43bb521d2959900c55794bf1c47}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900e50d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000e50d000048c8110072edc63058ce60030c020000e50d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffde0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200de0dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid1273601 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid1273601 {\*\bkmkstart tarkistaErapv(Lasku)}{\*\bkmkend tarkistaErapv(Lasku)}\hich\af1\dbch\af13\loch\f1 tarkistaErapv 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1273601 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid1273601 
+\hich\af2\dbch\af13\loch\f2 tarkistaEra\hich\af2\dbch\af13\loch\f2 pv}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid1273601 \hich\af2\dbch\af13\loch\f2 (Lasku\~l)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid1273601 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1273601 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tarkistaa laskun er\'e4\loch\f0 \hich\f0 p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 n ja palauttaa tiedon siit\'e4\loch\f0 \hich\f0  kuinka monta p\'e4\loch\f0 \hich\f0 iv\'e4\'e4
+\loch\f0 \hich\f0  lasku on my\'f6\loch\f0 \hich\f0 h\'e4\loch\f0 \hich\f0 ss\'e4\loch\f0 \hich\f0 . Jos lasku ei ole my\'f6\loch\f0 \hich\f0 h\'e4\loch\f0 \hich\f0 ss\'e4\loch\f0  palauttaa 0 (nollan\hich\af0\dbch\af13\loch\f0 ) 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \ab0\af0\afs24 \ltrch\fcs0 \b0\fs24\insrsid1273601 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 
+Class Asiakas 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Sis\'e4\loch\f0 lt
+\loch\af0\dbch\af13\hich\f0 \'e4\'e4\loch\f0  asiakkaan tiedot\hich\af0\dbch\af13\loch\f0 .}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid11623091 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid1273601 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 METODIT}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid11623091 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 \hich\af1\dbch\af13\loch\f1 palautaNimi 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public java.lang.String }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 palautaNimi}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 Palauttaa asiakkaan nimen. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1174447349\blipupi-179{\*\blipuid b9ff5b0b63de81c2dba4664ecc8b97f8}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900eb0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000eb0d000048c8110072edc63058ce60030c020000eb0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffe50d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200e40dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 {\*\bkmkstart palautaOsoite()}{\*\bkmkend palautaOsoite()}\hich\af1\dbch\af13\loch\f1 palautaOsoite 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public java.lang.String }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 palautaOsoite}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 Palauttaa asiakkaan osoitteen. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1108713520\blipupi-177{\*\blipuid 4215a030cd67d4785b30c723667ae5c9}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900f20d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000f20d000048c8110072edc63058ce60030c020000f20d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaffeb0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200ea0dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 \hich\af1\dbch\af13\loch\f1 toString 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public java.lang.String }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tulostaa asiakastiedot yhten\'e4\loch\f0  merkkijonona.\hich\af0\dbch\af13\loch\f0  
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Overrides:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 
+\hich\af0\dbch\af13\loch\f0  
+\par }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 
+\hich\af0\dbch\af13\loch\f0  in class }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 java.lang.Objec\hich\af2\dbch\af13\loch\f2 t}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0  
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \ab0\af0\afs24 \ltrch\fcs0 \b0\fs24\lang2057\langfe2052\langnp2057\insrsid11623091 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Class Aika 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Luokka p\'e4\loch\f0 \hich\f0 iv\'e4
+\loch\f0 \hich\f0 m\'e4\'e4\loch\f0 \hich\f0 r\'e4\loch\f0 \hich\f0 n k\'e4\hich\af0\dbch\af13\loch\f0 sittelemiseen ja muokkaamiseen\hich\af0\dbch\af13\loch\f0 . 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid11623091 
+\par \hich\af0\dbch\af13\loch\f0 METODIT
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 \hich\af1\dbch\af13\loch\f1 onKarkaus 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public static boolean }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 onKarkaus}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 (int\~vu)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tarkistaa onko sy\'f6\loch\f0 \hich\f0 tteen\'e4\'e4\loch\f0 n saama vuosi karkausvuosi, palauttaa true jos on. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1074{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1074207798\blipupi-176{\*\blipuid 40071c3643e1b12b2ea659dce95c5fb6}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900f80d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000f80d000048c8110072edc63058ce60030c020000f80d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffafff10d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200f10dffff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 {\*\bkmkstart paiviaKk(int,_int)}{\*\bkmkend paiviaKk(int,_int)}\hich\af1\dbch\af13\loch\f1 paiviaKk 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 
+public static int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 paiviaKk}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 
+\hich\af2\dbch\af13\loch\f2 (int\~kk,
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af2 
+\ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2                            }{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 int\~vuosi)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tarkistaa ja palauttaa sy\'f6\hich\af0\dbch\af13\loch\f0 \hich\f0 tteen\'e4\loch\f0 \hich\f0  saamansa kuukauden p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 t. Saa sy\'f6\loch\f0 
+\hich\f0 tteen\'e4\'e4\loch\f0 \hich\f0 n my\'f6\loch\f0 s vuoden karkausvuoden tarkistamiseen. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1075{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1834206234\blipupi-175{\*\blipuid 92ac3be66207a78e32c5bf81998b0724}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900fe0d040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000fe0d000048c8110072edc63058ce60030c020000fe0d0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffafff70d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200f70dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 {\*\bkmkstart palautaKk()}{\*\bkmkend palautaKk()}\hich\af1\dbch\af13\loch\f1 palautaKk 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 palautaKk}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 Palauttaa kuukauden. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1076{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1471141694\blipupi-173{\*\blipuid 57afd73e8f9fdfed93a5e7b0708818ab}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900050e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000050e000048c8110072edc63058ce60030c020000050e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffafffe0d320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200fe0dffffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 {\*\bkmkstart palautaPv()}{\*\bkmkend palautaPv()}\hich\af1\dbch\af13\loch\f1 palautaPv 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 palautaPv}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Palauttaa p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 n. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1077{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-923617540\blipupi-172{\*\blipuid c8f2b6fc2aac294819f61788ddcc7e6a}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239000b0e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00000b0e000048c8110072edc63058ce60030c0200000b0e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff040e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200040effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 {\*\bkmkstart palautaVu()}{\*\bkmkend palautaVu()}\hich\af1\dbch\af13\loch\f1 palautaVu 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 palautaVu}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 Palauttaa vuoden.\hich\af0\dbch\af13\loch\f0  
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1078{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-99155200\blipupi-171{\*\blipuid fa170300d0b72e8f6a8ea9a060324cfe}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900110e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000110e000048c8110072edc63058ce60030c020000110e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff0a0e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f00000000000000032000a0effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 {\*\bkmkstart tarkistaPvm(int,_int,_int)}{\*\bkmkend tarkistaPvm(int,_int,_int)}\hich\af1\dbch\af13\loch\f1 tarkistaPvm 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 
+public static boolean }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 tarkistaPvm}{\rtlch\fcs1 \af2 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 (int\~pv,
+\par \hich\af2\dbch\af13\loch\f2                                   int\~kk,
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af2 
+\ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2                                   }{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 int\~vu)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tarkistaa p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 m\'e4\'e4\loch\f0 \hich\f0 r\'e4\loch\f0 \hich\f0 n kelvollisuuden. Palauttaa true jos p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 
+\hich\f0 m\'e4\'e4\loch\f0 \hich\f0 r\'e4\loch\f0  on kunnossa. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11623091 {\pict{\*\picprop\shplid1079{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-486368750\blipupi-169{\*\blipuid e3029a12eca9dd171e7083897e1d0926}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900170e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000170e000048c8110072edc63058ce60030c020000170e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff100e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200100effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid11623091 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid11623091 \hich\af1\dbch\af13\loch\f1 toString 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 public java.lang.Stri\hich\af2\dbch\af13\loch\f2 ng }{
+\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\insrsid11623091 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid11623091 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid11623091 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid11623091 \hich\af0\dbch\af13\loch\f0 \hich\f0 Luo ja palauttaa p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 \hich\f0 m\'e4\'e4\loch\f0 \hich\f0 r\'e4\loch\f0 \hich\f0 n yhten\'e4\loch\f0  merkkijonona. 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0 Overrides:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 
+\hich\af0\dbch\af13\loch\f0  
+\par }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 toString}{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 
+\hich\af0\dbch\af13\loch\f0  in class }{\rtlch\fcs1 \af2 \ltrch\fcs0 \cs18\f2\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af2\dbch\af13\loch\f2 java.lang.Objec\hich\af2\dbch\af13\loch\f2 t}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid11623091\charrsid11623091 \hich\af0\dbch\af13\loch\f0  
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \ab0\af0\afs24 \ltrch\fcs0 \b0\fs24\lang2057\langfe2052\langnp2057\insrsid11623091 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 Class LueKirjoitaBin 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Luokka joka sis\'e4\loch\f0 \hich\f0 lt
+\'e4\'e4\loch\f0  \hich\af0\dbch\af13\loch\f0 laskutustiedoston tallentamiseen ja lukemiseen tarvittavat operaatiot\hich\af0\dbch\af13\loch\f0 . }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid3034714 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 METODIT}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid3034714 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3034714 \hich\af1\dbch\af13\loch\f1 alustaBin 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 public static void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid3034714 \hich\af2\dbch\af13\loch\f2 alustaBin}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 (Laskutus\~tyhja)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Tyhjent\'e4\'e4\loch\f0 \hich\f0  laskutustiedoston. Mahdollisten lukuongelmien vuoksi alustaa laskutustiedoston uudelle laskutusj\'e4\loch\f0 \hich\f0 rjestelm\'e4\loch\f0 lle. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1092{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-767862274\blipupi-168{\*\blipuid d23b59fe0e6c88740df95ebc80c5f0e2}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239001e0e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00001e0e000048c8110072edc63058ce60030c0200001e0e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff170e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200160effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3034714 {\*\bkmkstart kirjoitaBin(Laskutus)}{\*\bkmkend kirjoitaBin(Laskutus)}\hich\af1\dbch\af13\loch\f1 kirjoitaBin 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 public static void }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid3034714 \hich\af2\dbch\af13\loch\f2 kirjoitaBin}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 (Laskutus\~laskut)
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 Kirjoittaa laskutustiedoston tiedostoon. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1093{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1443942945\blipupi-167{\*\blipuid a9ef2ddf6c5c5e08a56ba9191fc97a04}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900240e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000240e000048c8110072edc63058ce60030c020000240e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff1d0e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f00000000000000032001c0effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 {\*\bkmkstart lueBin()}{\*\bkmkend lueBin()}\hich\af1\dbch\af13\loch\f1 lueBin 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 
+public static Laskutus }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 lueBin}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 
+\hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 Lukee laskutustiedoston tiedot tiedostosta\hich\af0\dbch\af13\loch\f0 . 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 
+\b\fs36\lang1035\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \ab0\af0\afs24 \ltrch\fcs0 \b0\fs24\insrsid3034714 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 
+Class Lue 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Luokka sy\'f6\loch\f0 \hich\f0 
+tetietojen lukemiseen k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\hich\af0\dbch\af13\loch\f0 . }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\kerning0\insrsid3034714 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid3034714\charrsid3034714 \hich\af0\dbch\af13\loch\f0 METODIT}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid3034714 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af1\dbch\af13\loch\f1 dluku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 
+public static double }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 dluku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 
+\hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lukee k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0 \hich\f0  liukuluvun, vaatii kelvollisen sy\'f6\loch\f0 tteen. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1102{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag795398378\blipupi-165{\*\blipuid 2f68d0ea452e9e226502820de5308702}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239002a0e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00002a0e000048c8110072edc63058ce60030c0200002a0e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff230e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200230effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 {\*\bkmkstart kluku()}{\*\bkmkend kluku()}\hich\af1\dbch\af13\loch\f1 kluku 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 
+public static int }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 \b\lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 \hich\af2\dbch\af13\loch\f2 kluku}{\rtlch\fcs1 \af2 \ltrch\fcs0 \lang2057\langfe2052\langnp2057\insrsid3034714\charrsid3034714 
+\hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lukee k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0 \hich\f0  kokonaisluvun, vaatii kelvollisen sy\'f6\loch\f0 tteen. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1103{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-307625970\blipupi-164{\*\blipuid edaa000e86c514b270011215c48cbd45}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900300e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000300e000048c8110072edc63058ce60030c020000300e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff290e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200290effffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3034714 {\*\bkmkstart lueAika()}{\*\bkmkend lueAika()}\hich\af1\dbch\af13\loch\f1 lueAika 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 public static Aika }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid3034714 \hich\af2\dbch\af13\loch\f2 lueAika}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lukee k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0  \hich\af0\dbch\af13\loch\f0 \hich\f0 
+Aika-tyyppisen ajan. Aika luetaan String tiedostona ja muutetaan erillisiksi osiksi, p\'e4\loch\f0 \hich\f0 iv\'e4\loch\f0 , kuukausi ja vuosi. Vaatii kelvollisen ajan, tarkistaa kelvollisuuden Aika-luokassa. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1104{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag2088913962\blipupi-163{\*\blipuid 7c824c2a28fc3ae124b9ea861c46005e}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c023900370e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d0000370e000048c8110072edc63058ce60030c020000370e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff300e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200300effffffff08000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3034714 {\*\bkmkstart lueAsiakas()}{\*\bkmkend lueAsiakas()}\hich\af1\dbch\af13\loch\f1 lueAsiakas 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 public static Asiakas }{\rtlch\fcs1 \ab\af2 \ltrch\fcs0 
+\b\insrsid3034714 \hich\af2\dbch\af13\loch\f2 lueAsiakas}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lukee k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0  Asiakas-tyypp\hich\af0\dbch\af13\loch\f0 \hich\f0 
+isen muuttujan tiedot (nimen ja osoitteen), vaatii kelvolliset sy\'f6\loch\f0 tteet. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\nooverflow\faauto\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3034714 {\pict{\*\picprop\shplid1105{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex830\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag249179124\blipupi-161{\*\blipuid 0eda2bf4ec4342e86b7225c79cb0f6ea}
+010009000003b900000006001c00000000000400000003010800050000000b0200000000050000000c0239003d0e040000002e0118001c000000fb0210000700
+00000000bc02000000000102022253797374656d00003d0e000048c8110072edc63058ce60030c0200003d0e0000040000002d01000004000000020101001c00
+0000fb029cff0000000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+00000902000000020d000000320a5400faff01000400fafffaff360e320020002d00030000001e0007000000fc020000a0a0a0000000040000002d0102000800
+0000fa02050000000000ffffff00040000002d0103000c00000040092100f0000000000000003200360effff000008000000fa0200000000000000000000040000002d01040007000000fc020000ffffff000000040000002d010500040000002701ffff040000002d010000030000000000}}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid3034714 
+\par }\sectd \ltrsect\pgnrestart\linex0\footery1080\colsx708\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\footer \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\nooverflow\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid5919362 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\nooverflow\faauto\outlinelevel2\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 \ab\af1\afs26\alang1025 \ltrch\fcs0 \b\fs26\lang1035\langfe2052\kerning28\loch\af1\hich\af1\dbch\af13\cgrid\langnp1035\langfenp2052 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3034714 {\*\bkmkstart rivi()}{\*\bkmkend rivi()}\hich\af1\dbch\af13\loch\f1 rivi 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 \rtlch\fcs1 
+\af2\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\loch\af2\hich\af2\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 public static java.lang.String }{\rtlch\fcs1 \ab\af2 
+\ltrch\fcs0 \b\insrsid3034714 \hich\af2\dbch\af13\loch\f2 rivi}{\rtlch\fcs1 \af2 \ltrch\fcs0 \insrsid3034714 \hich\af2\dbch\af13\loch\f2 ()
+\par }\pard\plain \ltrpar\ql \li720\ri0\nowidctlpar\nooverflow\faauto\rin0\lin720\itap0\pararsid3034714 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1035\langfe2052\kerning28\loch\af0\hich\af0\dbch\af13\cgrid\langnp1035\langfenp2052 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid3034714 \hich\af0\dbch\af13\loch\f0 \hich\f0 Lukee k\'e4\loch\f0 \hich\f0 ytt\'e4\loch\f0 \hich\f0 j\'e4\loch\f0 \hich\f0 lt\'e4\loch\f0 \hich\f0  yhden rivin. Vaatii kelvollisen sy\'f6\loch\f0 tteen\hich\af0\dbch\af13\loch\f0 . 
+
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3034714 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\kerning0\insrsid3034714\charrsid3034714 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11623091 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid11623091\charrsid3034714 
+\par }}
