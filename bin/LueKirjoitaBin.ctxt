@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LueKirjoitaBin
+comment0.text=\r\n\ LueKirjoitaBin.java\r\n\ <p>Luokka\ joka\ sis\u00E4lt\u00E4\u00E4\ laskutustiedoston\ tallentamiseen\ ja\ lukemiseen\r\n\ tarvittavat\ operaatiot.\ Kirjoittaa\ ja\ lukee\ bin-tiedostoon.\r\n\ \r\n\ @author\ (Henri\ Tanskanen)\ \r\n\ @version\ (18.4.2007)\r\n
+comment1.params=laskut
+comment1.target=void\ kirjoitaBin(Laskutus)
+comment1.text=\r\n\ kirjoitaBin.\r\n\ <p>Kirjoittaa\ parametrina\ saamansa\ laskutustiedoston\ tiedostoon.\r\n\ \r\n\ @param\ laskut\ \ \ \ \ \ \ \ tiedostoon\ kirjoitettava\ tieto\ laskutuslistasta\r\n\ @throws\ IOException\ \ jos\ laskujen\ kirjoittamisessa\ on\ ongelmia\r\n
+comment2.params=
+comment2.target=Laskutus\ lueBin()
+comment2.text=\r\n\ lueBin.\r\n\ <p>Lukee\ laskutustiedostot\ tiedostosta\ \r\n\ ja\ laskutuslistan\ tiedot\ paluttaa\ jos\ lukeminen\ onnistuu.\r\n\ Jos\ ongelmia\ lukemisessa,\ ilmoittaa\ virheell\u00E4.\r\n\ \r\n\ @return\ laskut\ \ \ \ \ \ \ laskut\ jotka\ olivat\ laskutustiedostossa\r\n\ @throws\ ClassNotFoundException\ \ \ jos\ tiedostoa\ ei\ l\u00F6ydy\r\n\ @throws\ IOException\ \ jos\ tietojen\ lukemisessa\ on\ ongelmia\r\n
+comment3.params=tyhja
+comment3.target=void\ alustaBin(Laskutus)
+comment3.text=\r\n\ alustaBin.\r\n\ <p>Tyhjent\u00E4\u00E4\ laskutustiedoston.\r\n\ Mahdollisten\ lukuongelmien\ vuoksi\ alustaa\ laskutustiedoston\ uudelle\r\n\ laskutusj\u00E4rjestelm\u00E4lle,\ jonka\ j\u00E4lkeen\ laskuja\ voidaan\ taas\ lis\u00E4t\u00E4\r\n\ ja\ poistaa\ ym.\ muita\ operaatioita\ tehd\u00E4\ normaalisti.\r\n\ \r\n\ @param\ tyhja\ \ \ \ \ \ \ \ \ tyhj\u00E4\ laskutuslista\r\n\ @throws\ IOException\ \ jos\ tiedostoon\ kirjoittamisessa\ on\ ongelmia\r\n
+numComments=4

@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Laskutus
+comment0.text=\r\n\ Laskutus.java.\r\n\ <p>Sis\u00E4lt\u00E4\u00E4\ laskutuslistan\ luomiseen\ ja\ muokkaamiseen\ tarvittavia\ metodeja.\r\n\ <p>Luokan\ avulla\ muodostetaan\ laskuista\ vektori,\ jonka\ avulla\ laskuja\ on\ helppo\r\n\ lis\u00E4t\u00E4\ ja\ poistaa\ jne.\r\n\r\n\ @author\ \ Henri\ Tanskanen\r\n\ @version\ 30.3.2007\r\n
+comment1.params=
+comment1.target=Laskutus()
+comment1.text=\r\n\ Laskutus.\ \r\n\ <p>Luokan\ alustaja,\ luo\ uuden\ tyhj\u00E4n\ laskutuslistan.\r\n
+comment10.params=
+comment10.target=void\ tulostaLaskut()
+comment10.text=\r\n\ tulostaLaskut.\r\n\ Tulostaa\ kaikki\ laskut.\ Jos\ laskutusluettelo\ on\ tyhj\u00E4\ (tarkistetaan\ onTyhj\u00E4\ metodilla)\r\n\ ilmoittaa\ ettei\ laskuja\ ole.\ Muuten\ k\u00E4y\ silmukan\ avulla\ kaikki\ laskut\ l\u00E4pi\ ja\ tulostaa\r\n\ jokaisen\ k\u00E4ytt\u00E4en\ Laskut-luokan\ toString\ metodia.\r\n\ Mik\u00E4li\ tulostamisessa\ on\ ongelmia,\ ilmoittaa\ virheell\u00E4.\r\n\ \r\n\ @throws\ Exception\ jos\ laskuja\ ei\ voida\ tulostaa\r\n
+comment2.params=lasku
+comment2.target=void\ lisaaLasku(Lasku)
+comment2.text=\r\n\ lisaaLasku.\r\n\ <p>Lis\u00E4\u00E4\ sy\u00F6tteen\u00E4\u00E4n\ saaman\ laskun\ laskutuslistaan.\ Mik\u00E4li\ lis\u00E4\u00E4minen\ ei\ onnistu,\r\n\ ilmoittaa\ virheell\u00E4.\r\n\ \r\n\ @param\ lasku\ \ \ \ \ \ \ \ \ listaan\ lis\u00E4tt\u00E4v\u00E4\ lasku,\ tyyppi\u00E4\ Lasku\r\n\ @throws\ Exception\ \ \ \ jos\ laskun\ lis\u00E4\u00E4misess\u00E4\ on\ ongelmia\ \r\n
+comment3.params=nro
+comment3.target=void\ poistaLasku(int)
+comment3.text=\r\n\ poistaLasku.\r\n\ <p>Poistaa\ laskunumeron\ perusteella\ haetun\ laskun\ laskutusvektorista.\r\n\ <p>Lasku\ haetaan\ numeron\ perusteella\ metodia\ haeLasku\ k\u00E4ytt\u00E4en.\r\n\ \r\n\ @param\ nro\ \ \ \ \ \ \ \ \ \ \ poistettavan\ laskun\ numero\r\n\ @throws\ Exception\ \ \ \ jos\ numerolla\ ei\ ole\ laskua\r\n
+comment4.params=nro
+comment4.target=Lasku\ haeLasku(int)
+comment4.text=\r\n\ haeLasku.\r\n\ <p>Palauttaa\ laskun\ numeron\ perusteella\ haetun\ laskun\ j\u00E4rjestysnumeron\ vektorissa.\r\n\ <p>Jos\ laskua\ ei\ l\u00F6ydy,\ palauttaa\ -1.\r\n\ \r\n\ @param\ nro\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ etsitt\u00E4v\u00E4n\ laskun\ numero\r\n\ @return\ laskut.elementAt(laskunro)\ \ \ lasku\ jota\ haettiin\r\n
+comment5.params=lasku
+comment5.target=void\ lahetaLasku(Lasku)
+comment5.text=\r\n\ lahetaLasku.\r\n\ <p>L\u00E4ett\u00E4\u00E4\ laskun\ tai\ karhulaskun\ asiakkaalle.\r\n\ <p>Kysyy\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ poistetaanko\ l\u00E4hetetty\ lasku\ laskutusluettelosta.\r\n\ \r\n\ @param\ nro\ \ \ \ \ l\u00E4hetett\u00E4v\u00E4n\ laskun\ numero\r\n
+comment6.params=nro\ nyt
+comment6.target=int\ tarkistaEra(int,\ Aika)
+comment6.text=\r\n\ tarkistaEra.\r\n\ <p>Palauttaa\ laskun\ er\u00E4p\u00E4iv\u00E4n\ ja\ nykyisen\ p\u00E4iv\u00E4n\ eron\ p\u00E4ivin\u00E4.\ \r\n\ Jos\ lasku\ on\ my\u00F6h\u00E4ss\u00E4\ palautusarvo\ on\ negatiivinen.\r\n\ Jos\ lasku\ on\ my\u00F6h\u00E4ss\u00E4\ yli\ 30\ p\u00E4iv\u00E4\u00E4\ palauttaa\ -31\ (karhulaskun\ aikaraja).\r\n\ \r\n\ @param\ nykyinen\ nykyinen\ aika\r\n\ @return\ ero\ nykyisen\ p\u00E4iv\u00E4n\ ja\ er\u00E4p\u00E4iv\u00E4n\ ero\ tai\ -31\r\n
+comment7.params=
+comment7.target=boolean\ onTyhja()
+comment7.text=\r\n\ onTyhja.\r\n\ <p>Tarkistaa\ onko\ laskutusluettelossa\ laskuja.\r\n\ Palauttaa\ tosi\ jos\ laskutusluettelo\ on\ tyhj\u00E4,\ muuten\ ep\u00E4tosi.\r\n\ <p>T\u00E4t\u00E4\ k\u00E4ytet\u00E4\u00E4n\ hyv\u00E4ksi\ p\u00E4\u00E4ohjelman\ ajossa.\r\n\ \r\n\ @return\ true\ \ \ \ \ jos\ laskutustiedosto\ on\ tyhj\u00E4,\ muuten\ false\r\n\ @see\ <a\ href\="http\://java.sun.com/j2se/1.4.2/docs/api/java/util/Vector.html">Vector</a>\r\n
+comment8.params=
+comment8.target=Lasku\ palautaViimeinen()
+comment8.text=\r\n\ palautaViimeinen.\r\n\ <p>Palauttaa\ laskuista\ j\u00E4rjestykselt\u00E4\u00E4n\ viimeisen.\r\n\ T\u00E4t\u00E4\ k\u00E4ytet\u00E4\u00E4n\ p\u00E4\u00E4ohjelman\ ajossa.\r\n\ \r\n\ @return\ laskut.lastElement()\ \ \ \ \ vektorin\ viimeinen\ elementti\r\n\ @see\ <a\ href\="http\://java.sun.com/j2se/1.4.2/docs/api/java/util/Vector.html">Vector</a>\r\n
+comment9.params=numero
+comment9.target=void\ tulostaLasku(int)
+comment9.text=\r\n\ tulostaLasku.\r\n\ <p>Tulostaa\ laskunumeron\ perusteella\ haetun\ laskun.\ Lasku\ etsit\u00E4\u00E4n\ k\u00E4ytt\u00E4en\r\n\ haeLasku\ metodia.\r\n\ <p>Jos\ laskua\ ei\ l\u00F6ydy\ ilmoittaa\ virheellisest\u00E4\ laskunumerosta.\r\n\ \r\n\ @param\ numero\ \ \ \ \ \ \ \ haettavan\ laskun\ numero\r\n\ @throws\ Exception\ \ \ \ jos\ laskua\ ei\ ole\ annetulla\ numerolla\r\n
+numComments=11

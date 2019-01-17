@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lue
+comment0.text=\r\n\ Lue.java\r\n\ <p>Luokka\ sy\u00F6tetietojen\ lukemiseen\ k\u00E4ytt\u00E4j\u00E4lt\u00E4.\ Luokan\ avulla\ voidaan\ lukea\r\n\ merkkijono,\ kokonaisluku,\ liukuluku,\ Aika-\ ja\ Asiakas-tyyppiset\ tiedot.\r\n\ \r\n\ @author\ Henri\ Tanskanen\r\n\ @version\ 20.3.2007\r\n
+comment1.params=
+comment1.target=java.lang.String\ rivi()
+comment1.text=\r\n\ rivi.\r\n\ <p>Lukee\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ yhden\ rivin.\ Vaatii\ kelvollisen\ sy\u00F6tteen.\r\n\ Palauttaa\ sy\u00F6tteen.\r\n\ \r\n\ @return\ arvo\ \ \ \ \ \ \ \ \ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ luettu\ merkkijono\r\n\ @throws\ Exception\ \ \ \ jos\ sy\u00F6tteen\ lukemisessa\ on\ ongelmia\r\n
+comment2.params=
+comment2.target=int\ kluku()
+comment2.text=\r\n\ kluku.\r\n\ <p>Lukee\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ kokonaisluvun,\ vaatii\ kelvollisen\ sy\u00F6tteen.\r\n\ Palauttaa\ saadun\ sy\u00F6tteen.\r\n\ \r\n\ @return\ arvo\ \ \ \ \ \ \ \ \ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ luettu\ kokonaisluku\r\n\ @throws\ Exception\ \ \ \ jos\ sy\u00F6tteen\ lukemisessa\ on\ ongelmia\r\n
+comment3.params=
+comment3.target=double\ dluku()
+comment3.text=\r\n\ dluku.\r\n\ <p>Lukee\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ liukuluvun,\ vaatii\ kelvollisen\ sy\u00F6tteen.\r\n\ Palauttaa\ sy\u00F6tteen\u00E4\ saadun\ arvon.\r\n\ \r\n\ @return\ arvo\ \ \ \ \ \ \ \ \ sy\u00F6tteen\u00E4\ saatu\ liukuluku\r\n\ @throws\ Exception\ \ \ \ jos\ sy\u00F6tteen\ lukemisessa\ on\ ongelmia\ \ \ \ \r\n
+comment4.params=
+comment4.target=Asiakas\ lueAsiakas()
+comment4.text=\r\n\ lueAsiakas.\r\n\ <p>Lukee\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ Asiakas-tyyppisen\ muuttujan\ tiedot\ (nimen\ ja\ osoitteen),\r\n\ vaatii\ kelvolliset\ sy\u00F6tteet.\ K\u00E4ytt\u00E4\u00E4\ lukemiseen\ t\u00E4m\u00E4n\ luokan\ metodia\ rivi().\r\n\ \r\n\ @return\ Asiakas\ \ uusi\ Asiakas-olio\ annetuilla\ tiedoilla\r\n
+comment5.params=
+comment5.target=Aika\ lueAika()
+comment5.text=\r\n\ lueAika.\r\n\ <p>Lukee\ k\u00E4ytt\u00E4j\u00E4lt\u00E4\ Aika-tyyppisen\ ajan.\ Aika\ luetaan\ String\ tiedostona\ ja\ muutetaan\r\n\ erillisiksi\ osiksi,\ p\u00E4iv\u00E4,\ kuukausi\ ja\ vuosi.\ Vaatii\ kelvollisen\ ajan,\ tarkistaa\r\n\ kelvollisuuden\ Aika-luokassa.\r\n\ \r\n\ @return\ pwm\ \ \ \ \ \ \ \ \ \ uusi\ Aika-olio\ annetuilla\ tiedoilla\r\n\ @throws\ Exception\ \ \ \ jos\ aika\ ei\ ole\ oikeaa\ muotoa\r\n
+numComments=6

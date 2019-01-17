@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ohj52
+comment0.text=\r\n\ Ohj52.java.\ Ohjelmointity\u00F6\ nro\ 52,\ Yrityksen\ laskutus.\r\n\ <p>Joensuun\ yliopisto,\ tietojenk\u00E4sittelytieteen\ laitos.\r\n\ \r\n\ <p>T\u00E4m\u00E4\ luokka\ sis\u00E4lt\u00E4\u00E4\ p\u00E4\u00E4ohjelman\ ja\ k\u00E4ytt\u00F6liittym\u00E4n.\ \r\n\ @author\ Henri\ Tanskanen\r\n\ @version\ 19.4.2007\r\n
+comment1.params=
+comment1.target=void\ Ohjelma()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ main.\r\n\ <p>P\u00E4\u00E4ohjelma,\ sis\u00E4lt\u00E4\u00E4\ pelk\u00E4st\u00E4\u00E4n\ ohjelman\ k\u00E4ytt\u00F6liittym\u00E4n.\r\n\ T\u00E4ss\u00E4\ suoritetaan\ ohjelman\ ajoa.\r\n
+numComments=3
